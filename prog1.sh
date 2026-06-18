@@ -7,7 +7,6 @@ echo "========================================="
 echo "       QUICK SYSTEM CHECK SCRIPT         "
 echo "========================================="
 echo ""
-
 # 1. Show Current User and Hostname
 echo "--> Hostname: $(hostname)"
 echo "--> Current User: $(whoami)"
