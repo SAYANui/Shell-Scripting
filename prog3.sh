@@ -43,4 +43,4 @@ if [ $sum -eq $num ]; then
     echo "Yes, $num is an Armstrong number."
 else
     echo "No, $num is NOT an Armstrong number."
-fi
+fiY
