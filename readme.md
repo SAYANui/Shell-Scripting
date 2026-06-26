@@ -1,0 +1,1 @@
+Running Unix script in bash shell , in windows am using cywin64 to get Linux type environment 
